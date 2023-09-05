@@ -7,6 +7,7 @@ function App() {
 			<Header></Header>
 			<main>
 				<Meals />
+        <p>To jest wersja aplikacji na moim branchu</p>
 			</main>
 		</>
 	);
